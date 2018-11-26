@@ -21,6 +21,7 @@ const key = "<INSERT YOUR API KEY HERE>"
 ```sh
 $ go run example/*.go "Is teh teh data good to go?"
 ```
+
 4. Review the example for basic usage
 
 ```go
